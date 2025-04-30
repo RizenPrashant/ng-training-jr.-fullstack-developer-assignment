@@ -1,0 +1,1 @@
+# ng-training-jr.-fullstack-developer-assignment
